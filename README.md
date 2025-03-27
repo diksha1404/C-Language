@@ -1,2 +1,3 @@
-# C-Language
-C语言经典小程序和小游戏
+# this is a heading 1 in md
+## this is heading 2 in md
+### this is heading 3 in md
